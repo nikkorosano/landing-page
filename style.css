@@ -74,6 +74,7 @@ ul {
     border-radius: 8px;
     border: none;
     transition-duration: 0.4s;
+    cursor: pointer;
 }
 
 .navbar button:hover {
@@ -112,6 +113,7 @@ ul {
     border-radius: 8px;
     border: none;
     transition-duration: 0.4s;
+    cursor: pointer;
 }
 
 .header button:hover {
@@ -222,6 +224,7 @@ ul {
     border: #fff;
     border: solid;
     transition-duration: 0.4s;
+    cursor: pointer;
 }
 
 .footer__signup button:hover {
