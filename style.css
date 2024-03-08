@@ -164,6 +164,12 @@ ul {
     border-radius: 16px;
     border: solid;
     border-color: #2070f0;
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+
+.box img:hover {
+    transform: scale(1.2);
 }
 
 .section {
